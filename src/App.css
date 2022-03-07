@@ -1,0 +1,18 @@
+.App-header {
+  background-color: white; 
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+
+div .m-t-20{
+  margin-top: 20px;
+}
+div .m-t-49{
+  margin-top: 49px;
+}
+div .m-l-20{
+  margin-left: 20px;
+}
+div .text-Align{
+  text-align: center
+}
